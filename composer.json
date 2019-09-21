@@ -4,12 +4,11 @@
     "description": "This command read database and make migrations files",
     "authors": [
         {
-            "name": "Shoaib Zahid",
-            "email": "shoaibzahid703@gamil.com"
+            "name": "Digital Waves",
+            "email": "admin@digitalwaves.net"
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "psr-4": {
             "digitalWaves\\createMigrations\\": "src/"
