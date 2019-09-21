@@ -1,5 +1,5 @@
 {
-    "name": "digital-waves/database-migration",
+    "name": "digitalwaves/database-migration",
     "license": "MIT",
     "description": "This command read database and make migrations files",
     "authors": [
