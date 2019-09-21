@@ -1,0 +1,18 @@
+{
+    "name": "digital-waves/database-migration",
+    "license": "MIT",
+    "description": "This command read database and make migrations files",
+    "authors": [
+        {
+            "name": "Shoaib Zahid",
+            "email": "shoaibzahid703@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "digitalWaves\\createMigrations\\": "src/"
+        }
+    }
+}
