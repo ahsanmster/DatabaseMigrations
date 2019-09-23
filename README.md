@@ -25,7 +25,7 @@ composer dump-autoload
 ```
 This command register package with laravel application and we can use easily package command.
 
-## usage
+## Usage
 Run this artisan command to make migrations files
 ```
 php artisan make:migration-files
